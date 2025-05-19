@@ -1,0 +1,37 @@
+.counter {
+    background-color:rgb(14, 180, 192);
+    color: black;
+    width: 350px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: 8% 38%;
+    border-radius: 5%;
+    outline: 5px solid rgb(0, 0, 0);
+}
+.name{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 5%;
+    text-shadow: 2px 2px 2px rgb(238, 14, 14);
+}
+.count{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 2%;
+    text-shadow: 2px 2px 2px #f6f6f1;
+}
+.button{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 4% 40%;
+  width: 25%;
+  height: 10%;
+  border: 2px solid red ;
+}
