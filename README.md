@@ -33,7 +33,7 @@ This app allows users to increase, decrease, and reset the counter value with sm
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/counter-app.git
+   https://build-the-counter-app-implementatio-six.vercel.app/
 Navigate to the project folder:
 
 bash
