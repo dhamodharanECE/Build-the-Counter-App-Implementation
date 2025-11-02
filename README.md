@@ -24,9 +24,12 @@ This app allows users to increase, decrease, and reset the counter value with sm
 ---
 
 ## 📸 Preview
-
-(Add a screenshot of your Counter App here)
-
+1. Main Page:
+   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/277fe6df-956c-40be-830b-dc379429644b" />
+2. Increment Operation:
+   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3796e626-0db6-49d6-b23f-10c3a1d14d2c" />
+3. Decrement Operations:
+   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3b6991f4-0003-4539-8b2c-7eae1f313c54" />
 ---
 
 ## 💻 How to Use
@@ -34,16 +37,10 @@ This app allows users to increase, decrease, and reset the counter value with sm
 1. Clone or download the repository:
    ```bash
    https://build-the-counter-app-implementatio-six.vercel.app/
-Navigate to the project folder:
-
-bash
-Copy code
-cd counter-app
-Open index.html in your browser.
-
-Use the Increase, Decrease, or Reset buttons to control the counter.
 
 📚 Learning Outcomes
+Use the Increase, Decrease, or Reset buttons to control the counter.
+
 Understanding DOM manipulation
 
 Handling click events in JavaScript
@@ -55,4 +52,5 @@ Designing a simple, responsive UI
 👨‍💻 Author
 Dhamodharan S
 Full Stack Web Developer | Passionate about building interactive web applications
+
 📧 Email: dhamodharans206@gmail.com
