@@ -4,9 +4,7 @@ A simple and interactive **Counter App** built using **HTML**, **CSS**, and **Ja
 
 This app allows users to increase, decrease, and reset the counter value with smooth UI updates.
 
----
-
-#🚀 Features
+# 🚀 Features
 
 - ➕ **Increment Counter** – Increases the value by one  
 - ➖ **Decrement Counter** – Decreases the value by one  
@@ -14,15 +12,11 @@ This app allows users to increase, decrease, and reset the counter value with sm
 - 🎨 **Responsive Design** – Works on all screen sizes  
 - ⚡ **Real-time Update** – Instantly reflects changes on the screen  
 
----
-
 # 🛠️ Technologies Used
 
 - **HTML5** – For creating the structure of the app  
 - **CSS** – For styling and layout design  
 - **JavaScript** – For functionality and interactivity  
-
----
 
 # 📸 Preview
 ```
@@ -64,4 +58,5 @@ dhamodharans206@gmail.com
 ```
 # Deployment Link:
 ```
+https://build-the-counter-app-implementatio-six.vercel.app/
 ```
